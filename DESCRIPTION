@@ -1,11 +1,13 @@
 Package: code815
 Type: Package
-Title: Code examples used in BIOSTAT 815
+Title: BIOSTAT 815 Lab Code
 Version: 1.0
-Date: 2025-01-21
-Author: Michele Peruzzi
-Maintainer: Michele Peruzzi <peruzzi@umich.edu>
-Description: Code examples used in BIOSTAT 815.
-License: What license is it under?
+Date: 2025-01-31
+Author: Michele Peruzzi, Nathan Szeto
+Maintainer: Nathan Szeto <nszeto@umich.edu>
+Description: Nathan Szeto's code for in-class coding labs.
+License: GPL-3.0
 Imports: Rcpp (>= 1.0.13-1)
+Encoding: UTF-8
 LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.3.2
