@@ -1,6 +1,5 @@
 set.seed(123)
 library(here)
-Rcpp::sourceCpp(file.path(here(), "R", "optim_1_source.cpp"))
 
 # Generate data
 n <- 100

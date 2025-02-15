@@ -1,7 +1,7 @@
 #include "losses.h"
 
 // [[Rcpp::export]]
-double loss_ridge(const arma::vec& y,
+double loss_ridge_samp(const arma::vec& y,
                   const arma::mat& A,
                   const arma::vec& x,
                   double lambda) {

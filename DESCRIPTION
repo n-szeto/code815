@@ -10,4 +10,5 @@ License: GPL-3.0
 Imports: Rcpp (>= 1.0.13-1)
 Encoding: UTF-8
 LinkingTo: Rcpp, RcppArmadillo
+Suggests: Rcpp
 RoxygenNote: 7.3.2
